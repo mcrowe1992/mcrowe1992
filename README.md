@@ -5,8 +5,8 @@ I am a passionate programmer with a strong background in finish carpentry, havin
 
 ### Skills
 - **Languages**: SQL, Python, C#, JavaScript, HTML, CSS, Java, C++
-- **Frameworks**: ASP.NET Core, MVC, Entity Framework
-- **Tools & Technologies**: Git, SSMS, Visual Studio, Android Studio, jGRASP
+- **Frameworks**: ASP.NET Core, MVC, EF Core, jQuery
+- **Tools & Technologies**: Git, SSMS, Visual Studio, Visual Studio Code, Android Studio, jGRASP, IntelliJ IDEA
 - **Others**: Agile Methodologies, Problem Solving, Team Collaboration
 
 ### Projects
